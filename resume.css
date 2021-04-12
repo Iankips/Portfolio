@@ -1,0 +1,36 @@
+body{
+				background-color:white;
+				color: black;
+				font-family:helvetica;
+				font-size: 25px;
+}
+img{
+				width:200px;
+				height:350px;
+				border-radius: 50%;
+				margin:10px auto;
+				
+}
+.center{
+				text-align: center;
+				background-color: red;
+				color: white;
+				border-radius: 20px;
+				height: auto;
+				font-family: monospace;
+				font-size: 20px;
+}
+hr{
+				height: 10px;
+				background-color:red;
+				margin: 10px;
+				border-radius: 5px;
+}
+a{
+				text-decoration: none;
+				color:black;
+}
+a:hover{
+				background-color:white;
+				color:red;
+}
